@@ -1,0 +1,11 @@
+WEEKFLOW ANDROID KURULUMU
+
+Bu, masaüstü WeekFlow'dan ayrı bir Android uygulamasıdır. Program ve Görevler ilk açılışta boştur. Kayıtlar bu Android cihazında saklanır.
+
+Kurulum:
+1. WeekFlow_Mobil.apk dosyasını USB kablosu, Google Drive veya başka bir dosya aktarım yöntemiyle telefona/tablete kopyala.
+2. Android'de Dosyalar > İndirilenler bölümünden APK dosyasına dokun.
+3. Android izin sorarsa yalnızca kullandığın Dosyalar uygulaması için bu kaynağa uygulama yükleme izni ver.
+4. Yükle'ye dokun. Sonra ana ekrandaki WeekFlow simgesinden aç.
+
+Uygulama internet gerektirmez. Masaüstü programındaki veriler bu uygulamaya aktarılmaz.
